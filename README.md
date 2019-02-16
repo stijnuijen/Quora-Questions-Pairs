@@ -1,4 +1,4 @@
-## Using NLP techniques to detect dupplicate Quora Questions
+## Using NLP techniques to detect duplicate Quora Questions
 Currently, Quora uses a Random Forest model to identify duplicate questions.
 In this competition, Kagglers are challenged to tackle this natural language processing problem
 by applying advanced techniques to classify whether question pairs are duplicates or not.
