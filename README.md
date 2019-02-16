@@ -6,5 +6,5 @@ Doing so will make it easier to find high quality answers to questions resulting
 seekers, and readers.
 
 
-###Kaggle competition:
+### Kaggle competition:
 www.kaggle.com/c/quora-question-pairs
